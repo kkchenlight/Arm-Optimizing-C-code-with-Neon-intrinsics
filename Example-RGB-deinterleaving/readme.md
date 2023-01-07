@@ -8,3 +8,6 @@ make
 compare_read_performance jpg-path
 ```
 
+
+
+**attention**: the cmake script need opencv
